@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: Arial, Helvetica, sans-serif ;
+    
+
+}
+.navbar{
+    height: 70px;
+    background-color: #ffffff;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1.5px solid rgb(64, 64, 64);
+    border-radius: 4px;
+   
+
+}
+
+.nav-logo h2 p{
+    height: 22px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+}
+.nav-logo h2{
+    color: #357cff;
+}
+
+#pl{
+    color: #fda703;
+}
+
+
+.border{
+    border: 1.5px solid transparent;
+}
+
+.border:hover{
+    border: 1.5px solid black;
+
+}
+
+
+.nav-input{
+   
+    display: flex;
+    height: 40px;
+    width: 620px;
+    background-color: #ffffff;
+    font-size: 17px;
+    border-radius: 4px;
+    border: 0.5px solid black;
+
+}
+
+/* 
+ */
+
+
+.search-input{
+    width: 100%;
+    font-size: 0.85rem;
+    border: none;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+
+   }
+ .nav-i{
+    
+    height:40px ;
+    width: 44px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 10px;
+ }
+
+
+ /**box2 **/
+ .main-section{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 150px;
+    border-radius: 4px;
+    
+
+ }
+
+ .box{
+    height: 150px;
+    width: 190px;
+    /* border: 2px solid rgb(212, 211, 211); */
+    margin-top: 20px;
+    display: flex;
+    padding-left: 10px;
+    
+  }
+
+  .box:hover{
+    border: 2px solid rgb(212, 211, 211);
+
+  }
+
+ .box-contet{
+    height: 150px;
+    width: 153.2px;
+    /* display: flex;
+    justify-content: center; */
+ }
+ .box-contet h4{
+   justify-content: center;
+
+ }
+
+ /**main section**/
+ .main-img{
+    height: 265px;
+    width: 100%;
+    margin-top: 50px;
+    border: 2px solid rgb(212, 211, 211);
+    border-radius: 4px;
+
+ }
+
+ /**heading**/
+
+ .main-heading{
+   
+    height: 90px;
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    margin-left: 10px;
+ }
+ /** main ele**/
+ .main-ele{
+    height: 224px;
+    width: 100%;
+    /* border: 2px solid rgb(212, 211, 211); */
+    padding: 0px 6px 12px;
+    display: flex;
+    justify-content: space-evenly;
+ }
+ .bx{
+    height: 210px;
+    width: 14%;
+    /* background-color: darksalmon; */
+    margin: 16px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1.5px solid  rgb(212, 211, 211);
+
+   
+ }
+
+ .bx p{
+    margin-left: 10px;
+ }
+
+ 
+ 
+ 
+
+
+ 
+

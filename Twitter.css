@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: TwitterChirpExtendedHeavy","Verdana",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+.hero{
+    height: 670px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+}
+
+.hero-img{
+    height: 663px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    height: 410px;
+    width: 652px;
+}
+
+.join{
+    height: 663px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+    margin-left: 20px;
+
+}
+.join h1{
+    height: 84px;
+    width: 543px;
+    color: #E7E9EA;
+    font-size: 64px;
+    margin-bottom: 48px;
+}
+
+.join p{
+    width: 185px;
+    height: 36px;
+    color: #E7E9EA;
+    font-size: 31px;
+    margin-bottom: 32px;
+}
+
+.google{
+    height: 40px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    border-radius: 16px;
+    margin-bottom: 20px;
+}
+.google a{
+    text-decoration: none;
+    color: #71767B;
+    font-size: 17px;
+}
+
+.apple{
+    height: 40px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    border-radius: 16px;
+}
+.apple a{
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.line{
+    width: 308px;
+    height: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+}
+.under{
+    height: 20px;
+    width: 134px;
+    
+}
+ .under hr{
+    color: rgb(47, 51, 54);
+}
+
+.line p{
+    width: 14px;
+    height: 18px;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+
+}
+
+.create{
+    height: 40px;
+    width: 300px;
+   display: flex;
+   /* justify-content: center; */
+   align-items: center;
+    background-color: #1D9BF0;
+    color: white;
+    border-radius: 16px;
+}
+
+.create p{
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.heding{
+    /* height: 24px;
+    width: 300px; */
+
+}
+.al-account p{
+    width: 209px;
+    height: 24px;
+    font-size: 17px;
+
+}
+.heding p{
+    font-size: 11px;
+    height: 24px;
+    width: 300px;
+    margin-top: 10px;
+}
+.sign-in{
+    width: 300px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.5px solid rgb(47, 51, 54); 
+    border-radius: 16px;
+}
+
+.sign-in a{
+    text-decoration: none;
+    color: rgb(29, 155, 240);
+    font-size: 15px;
+
+}
+
+.footer{
+    height: 72px;
+    width: 100%;
+    background-color: black;
+
+}
+.footer p{
+    height: 72px;
+    width: 100%;
+    font-size: 13px;
+    color: #71767B;
+    text-align: center;
+}
